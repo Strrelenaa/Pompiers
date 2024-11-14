@@ -1,0 +1,6 @@
+﻿CalYear,HourOfCall,IncidentGroup,StopCodeDescription,SpecialServiceType,PropertyCategory,PropertyType,AddressQualifier,Postcode_district,IncGeo_BoroughName,IncGeo_WardName,Easting_rounded,Northing_rounded,IncidentStationGround,NumStationsWithPumpsAttending,PumpCount,DeployedFromStation_Code,DeployedFromLocation,DelayCode_Description,ResponseTimeSeconds,CalWeekday,CalMonth
+2018,0,False Alarm,AFA,,Non Residential,OTHERS,Within same building,OTHERS,BARNET,OTHERS,527150,189450,OTHERS,1,1,A39,Home Station,,360,0,1
+2018,0,False Alarm,AFA,,Non Residential,PUB/WINE BAR/BAR ,Correct incident location,OTHERS,BROMLEY,OTHERS,537450,169550,OTHERS,1,1,E43,Home Station,,120,0,1
+2018,0,Fire,SECONDARY FIRE,,Outdoor Structure,COMMON EXTERNAL BIN STORAGE AREA,On land associated with building,OTHERS,ENFIELD,OTHERS,531950,193150,EDMONTON,1,1,A36,Home Station,,240,0,1
+2018,0,Special Service,SPECIAL SERVICE,RTC,Road Vehicle,MULTIPLE VEHICLES ,In street outside gazetteer location,OTHERS,ENFIELD,OTHERS,534750,197450,ENFIELD,1,1,A35,Home Station,,60,0,1
+2018,0,Fire,PRIMARY FIRE,,Road Vehicle,CAR ,In street outside gazetteer location,E15,NEWHAM,OTHERS,539450,185350,STRATFORD,1,1,F21,Home Station,,240,0,1

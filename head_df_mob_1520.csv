@@ -1,0 +1,6 @@
+﻿IncidentNumber,CalYear,HourOfCall,ResourceMobilisationId,Resource_Code,PerformanceReporting,DateAndTimeMobilised,DateAndTimeMobile,DateAndTimeArrived,TurnoutTimeSeconds,TravelTimeSeconds,AttendanceTimeSeconds,DateAndTimeLeft,DateAndTimeReturned,DeployedFromStation_Code,DeployedFromStation_Name,DeployedFromLocation,PumpOrder,PlusCode_Code,PlusCode_Description,DelayCodeId,DelayCode_Description
+1151,2015,0,4436381,H262,1,01/01/2015 00:02,01/01/2015 00:03,01/01/2015 00:07,79,203,282,01/01/2015 00:35,01/01/2015 00:43,H26,Addington,Home Station,1,Initial,Initial Mobilisation,,
+1151,2015,0,4436380,H261,2,01/01/2015 00:02,01/01/2015 00:03,01/01/2015 00:07,74,211,285,01/01/2015 00:33,01/01/2015 00:38,H26,Addington,Home Station,2,Initial,Initial Mobilisation,,
+4151,2015,0,4436383,A352,1,01/01/2015 00:03,01/01/2015 00:03,01/01/2015 00:09,44,360,404,01/01/2015 00:15,01/01/2015 00:27,A35,Enfield,Home Station,1,Initial,Initial Mobilisation,12,Not held up
+8151,2015,0,4436385,G251,1,01/01/2015 00:04,01/01/2015 00:06,01/01/2015 00:09,76,223,299,01/01/2015 00:44,01/01/2015 00:50,G25,Ealing,Home Station,1,Initial,Initial Mobilisation,,
+10151,2015,0,4436390,H291,1,01/01/2015 00:06,01/01/2015 00:11,01/01/2015 00:13,249,152,401,01/01/2015 00:20,01/01/2015 00:25,H29,Purley,Home Station,1,Initial,Initial Mobilisation,11,Mob/Radio problems when mobilised
